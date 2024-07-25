@@ -33,6 +33,7 @@
  }
 .menu-lista-titulo{
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .menu-lista-link{
@@ -41,4 +42,8 @@
     --webkit-text-fill-color:transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+.seletor-menu{
+    display: none;
 }
