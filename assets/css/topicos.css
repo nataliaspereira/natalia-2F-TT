@@ -17,6 +17,17 @@
      justify-content: center;
  }
 
- .topicos-lista-item a{
-     color: var ( --branco);
+ .topicos-lista-item{
+     margin: 2em 0.5em;
+
+ }
+
+ .topicos-link{
+     color: var(--branco);
+     background-color: var(--laranja);
+     text-decoration: none;
+     padding: 1em;
+     font-size: 14px;
+     font-weight: 700;
+     border-radius: 5px;
  }

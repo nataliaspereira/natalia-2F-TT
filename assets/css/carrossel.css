@@ -58,6 +58,7 @@
 
 .descricao-texto{
     font-size: 14px;
+    font-family: "Poppins", sans-serif;
 }
 
 .botoes-ancora{
@@ -66,4 +67,9 @@
     padding: 1em 2.2em;
     color: var(--branco);
     font-weight: 700;
+    border-radius: 6px;
+}
+
+.imagem-angular{
+    border-radius: 6px;
 }
